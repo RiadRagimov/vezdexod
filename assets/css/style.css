@@ -141,6 +141,21 @@
     font-weight: 400;
     color: #86898D;
 }
+.search_icon2_menu {
+    font-size: 20px;
+    color: #86898D;
+    cursor: pointer;
+}
+.search_icon2_menu:hover i{
+    color: #F9443B;
+}
+#search_icon {
+    font-size: 20px;
+    cursor: pointer;
+}
+#search_icon:hover {
+    color: #F9443B;
+}
 
 .nav-menu-header {
     width: 67%;
@@ -1024,9 +1039,7 @@
     width: 100%;
     display: flex;
 }
-.copyright_two_div_a1 {
-    
-}
+
 .copyright_div_two_a a{
     font-size: 14px;
     font-weight: 400;
