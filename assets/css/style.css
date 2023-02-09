@@ -989,14 +989,24 @@
 .copyright_contain {
     width: 100%;
     display: flex;
-    margin: 40px 0;
+    margin: 40px 20px;
 }
 .copyright_text {
     width: 100%;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.copyright_text a{
+    font-size: 14px;
+    font-weight: 400;
+    color: #86898D;
+    width: 25%;
+    margin: 0 20px;
 }
 .copyright_text_a {
-    width: 35%;
+    
     font-size: 14px;
     font-weight: 400;
     color: #86898D;
@@ -1015,7 +1025,7 @@
     display: flex;
 }
 .copyright_two_div_a1 {
-    margin-right: 120px;
+    
 }
 .copyright_div_two_a a{
     font-size: 14px;
@@ -1027,8 +1037,9 @@
 }
 .copyright_icon {
     display: flex;
-    width: 145px;
-    justify-content: space-between;
+    
+    
+    width: 25%;
 }
 .copyright_icon a{
     width: 40px;
