@@ -505,8 +505,7 @@
     display: flex;
     margin-top: 17%;
     margin-bottom: 26%;
-    margin-left: 20px;
-    margin-right: 20px;
+    padding: 0 20px;
     
 }
 .map_text {
@@ -649,8 +648,7 @@
     margin-top: 206px;
     margin-bottom: 120px;
     z-index: 1;
-    margin-left: 20px;
-    margin-right: 20px;
+    padding: 0 20px;
 }
 .video_text {
     width: 113%;
@@ -874,8 +872,9 @@
 }
 .smisl_container {
     width: 100%;
-    margin: 110px 20px;
+    margin: 110px 0;
     max-width: 1400px;
+    padding: 0 20px;
     
 
 }
