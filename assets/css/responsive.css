@@ -139,7 +139,12 @@
 }
 
 @media (max-width: 932px) {
-    
+    .copyright_text a{
+        width: 100%;
+    }
+    .copyright_icon {
+        width: 210px;
+    }
     .map_text {
         width: 92%;
     }
@@ -646,5 +651,21 @@
     .one_div_logo .not_none_button{
         width:90%;
     }
+    .copyright_text a{
+        width: 100%;
+        margin-top: 20px;
+    }
     
+    .copyright_icon {
+        margin-top: 20px;
+    }
+    .one_div_logo p{
+        font-size: 18px;
+
+    }
+    .smisl_container a{
+        text-align: center;
+        margin: 0;
+        justify-content: center;
+    }
 }
