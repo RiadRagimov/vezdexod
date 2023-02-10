@@ -432,6 +432,7 @@
 .care_card_contain {
     display: flex;
     justify-content: space-between;
+    margin: 20px;
 }
 .care_card {
     display: flex;
@@ -504,6 +505,8 @@
     display: flex;
     margin-top: 17%;
     margin-bottom: 26%;
+    margin-left: 20px;
+    margin-right: 20px;
     
 }
 .map_text {
@@ -557,8 +560,9 @@
 }
 .sponsor_img {
     display: flex;
-    width: 100%;
+    
     justify-content: space-between;
+    margin: 20px;
 }
 
 
@@ -645,6 +649,8 @@
     margin-top: 206px;
     margin-bottom: 120px;
     z-index: 1;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .video_text {
     width: 113%;
